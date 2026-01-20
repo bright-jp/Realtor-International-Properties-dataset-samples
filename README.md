@@ -1,4 +1,4 @@
-# Realtor International Properties Dataset Sample
+# Realtor International Properties データセットサンプル
 
 <h2>1,000件のレコードからなるサンプルデータセット</h2>
 
